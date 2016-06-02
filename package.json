@@ -1,0 +1,23 @@
+{
+  "name": "series-promise",
+  "version": "1.0.0",
+  "description": "execute functions in series plugin for es6 promise in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "wubin1989",
+  "email": "328454505@qq.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wubin1989/series-promise.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/wubin1989/series-promise/issues"
+  },
+  "homepage": "https://github.com/wubin1989/series-promise#readme"
+}
