@@ -5,7 +5,7 @@ chai.should();
 
 describe('series-promise package test', function() {
 
-	const Promise = require('../index');
+	const Promise = require('../src/entry');
 	const array = [1, 2, 3, 4, 5, 6, 7, 8];
 	let tasks = [];
 
