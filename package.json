@@ -1,6 +1,6 @@
 {
   "name": "series-promise",
-  "version": "1.0.7",
+  "version": "2.0.0",
   "description": "execute functions in series plugin for es6 promise in nodejs",
   "main": "index.js",
   "scripts": {
