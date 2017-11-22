@@ -1,6 +1,6 @@
 # series-promise
 
-execute functions in series plugin for es6 promise in nodejs
+execute functions in series plugin for es6 promise in nodejs and browser.
 
 ## Setup
 
@@ -10,7 +10,7 @@ execute functions in series plugin for es6 promise in nodejs
 
 ```javascript
 
-const Promise = require('series-promise');
+require("../index");
 const array = [1, 2, 3, 4, 5, 6, 7, 8];
 let tasks = [];
 
